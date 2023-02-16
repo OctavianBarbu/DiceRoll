@@ -1,1 +1,1 @@
-# diceRoll
+First project using JavaScript.
